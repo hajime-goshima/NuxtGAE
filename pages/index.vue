@@ -17,6 +17,9 @@
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey">GitHub</a>
+        <a
+          href="/demo"
+          class="button--green">Go to Demo Page</a>
       </div>
     </div>
   </section>
@@ -33,7 +36,6 @@ export default {
 </script>
 
 <style>
-
 .container {
   min-height: 100vh;
   display: flex;
